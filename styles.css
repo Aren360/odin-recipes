@@ -1,11 +1,11 @@
 .front-page {
-    font-family: 'Trebuchet MS', 'Nunito', sans-serif;
+    font-family: "Open Sans", "PT Sans", Calibri, Tahoma, sans-serif;
     background-color: blueviolet;
     color: antiquewhite;
 }
 
 .recipe-page {
-    font-family: 'Trebuchet MS', 'Nunito', sans-serif;
+    font-family: "Open Sans", "PT Sans", Calibri, Tahoma, sans-serif;
     background-color: paleturquoise;
     color: darkred;
 }
