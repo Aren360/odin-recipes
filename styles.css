@@ -1,0 +1,35 @@
+.front-page {
+    font-family: 'Trebuchet MS', 'Nunito', sans-serif;
+    background-color: blueviolet;
+    color: antiquewhite;
+}
+
+.recipe-page {
+    font-family: 'Trebuchet MS', 'Nunito', sans-serif;
+    background-color: paleturquoise;
+    color: darkred;
+}
+
+.recipe-photo {
+    height: auto;
+    width: 400px;
+}
+
+.title,
+.subtitle {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.title {
+    text-decoration: underline;
+    text-underline-position: below;
+}
+
+.front-page .list {
+    color: aqua;
+}
+.recipe-page .list {
+    color: black;
+    font-style: oblique;
+}
